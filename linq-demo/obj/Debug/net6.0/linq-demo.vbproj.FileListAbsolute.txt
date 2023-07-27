@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\linq-demo\bin\Debug\net6.0\linq-demo.exe
+D:\.NET-PROJECTS\linq-demo\bin\Debug\net6.0\linq-demo.deps.json
+D:\.NET-PROJECTS\linq-demo\bin\Debug\net6.0\linq-demo.runtimeconfig.json
+D:\.NET-PROJECTS\linq-demo\bin\Debug\net6.0\linq-demo.dll
+D:\.NET-PROJECTS\linq-demo\bin\Debug\net6.0\linq-demo.pdb
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\linq-demo.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\linq-demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\linq-demo.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\linq-demo.AssemblyInfo.vb
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\linq-demo.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\linq-demo.dll
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\refint\linq-demo.dll
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\linq-demo.pdb
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\linq-demo.genruntimeconfig.cache
+D:\.NET-PROJECTS\linq-demo\obj\Debug\net6.0\ref\linq-demo.dll

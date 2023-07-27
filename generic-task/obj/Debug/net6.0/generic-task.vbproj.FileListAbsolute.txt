@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\generic-task\bin\Debug\net6.0\generic-task.exe
+D:\.NET-PROJECTS\generic-task\bin\Debug\net6.0\generic-task.deps.json
+D:\.NET-PROJECTS\generic-task\bin\Debug\net6.0\generic-task.runtimeconfig.json
+D:\.NET-PROJECTS\generic-task\bin\Debug\net6.0\generic-task.dll
+D:\.NET-PROJECTS\generic-task\bin\Debug\net6.0\generic-task.pdb
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\generic-task.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\generic-task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\generic-task.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\generic-task.AssemblyInfo.vb
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\generic-task.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\generic-task.dll
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\refint\generic-task.dll
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\generic-task.pdb
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\generic-task.genruntimeconfig.cache
+D:\.NET-PROJECTS\generic-task\obj\Debug\net6.0\ref\generic-task.dll
