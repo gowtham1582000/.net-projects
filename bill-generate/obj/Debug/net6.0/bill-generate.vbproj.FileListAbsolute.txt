@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\bill-generate\bin\Debug\net6.0\bill-generate.exe
+D:\.NET-PROJECTS\bill-generate\bin\Debug\net6.0\bill-generate.deps.json
+D:\.NET-PROJECTS\bill-generate\bin\Debug\net6.0\bill-generate.runtimeconfig.json
+D:\.NET-PROJECTS\bill-generate\bin\Debug\net6.0\bill-generate.dll
+D:\.NET-PROJECTS\bill-generate\bin\Debug\net6.0\bill-generate.pdb
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\bill-generate.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\bill-generate.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\bill-generate.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\bill-generate.AssemblyInfo.vb
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\bill-generate.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\bill-generate.dll
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\refint\bill-generate.dll
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\bill-generate.pdb
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\bill-generate.genruntimeconfig.cache
+D:\.NET-PROJECTS\bill-generate\obj\Debug\net6.0\ref\bill-generate.dll

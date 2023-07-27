@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\array-task\bin\Debug\net6.0\array-task.exe
+D:\.NET-PROJECTS\array-task\bin\Debug\net6.0\array-task.deps.json
+D:\.NET-PROJECTS\array-task\bin\Debug\net6.0\array-task.runtimeconfig.json
+D:\.NET-PROJECTS\array-task\bin\Debug\net6.0\array-task.dll
+D:\.NET-PROJECTS\array-task\bin\Debug\net6.0\array-task.pdb
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\array-task.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\array-task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\array-task.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\array-task.AssemblyInfo.vb
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\array-task.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\array-task.dll
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\refint\array-task.dll
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\array-task.pdb
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\array-task.genruntimeconfig.cache
+D:\.NET-PROJECTS\array-task\obj\Debug\net6.0\ref\array-task.dll
