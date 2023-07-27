@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\number-series-task\bin\Debug\net6.0\number-series-task.exe
+D:\.NET-PROJECTS\number-series-task\bin\Debug\net6.0\number-series-task.deps.json
+D:\.NET-PROJECTS\number-series-task\bin\Debug\net6.0\number-series-task.runtimeconfig.json
+D:\.NET-PROJECTS\number-series-task\bin\Debug\net6.0\number-series-task.dll
+D:\.NET-PROJECTS\number-series-task\bin\Debug\net6.0\number-series-task.pdb
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\number-series-task.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\number-series-task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\number-series-task.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\number-series-task.AssemblyInfo.vb
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\number-series-task.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\number-series-task.dll
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\refint\number-series-task.dll
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\number-series-task.pdb
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\number-series-task.genruntimeconfig.cache
+D:\.NET-PROJECTS\number-series-task\obj\Debug\net6.0\ref\number-series-task.dll
