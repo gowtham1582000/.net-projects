@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\project2\bin\Debug\net6.0\project2.exe
+D:\.NET-PROJECTS\project2\bin\Debug\net6.0\project2.deps.json
+D:\.NET-PROJECTS\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+D:\.NET-PROJECTS\project2\bin\Debug\net6.0\project2.dll
+D:\.NET-PROJECTS\project2\bin\Debug\net6.0\project2.pdb
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\project2.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\project2.AssemblyInfo.vb
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\project2.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\project2.dll
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\refint\project2.dll
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\project2.pdb
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+D:\.NET-PROJECTS\project2\obj\Debug\net6.0\ref\project2.dll

@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\oops-task\bin\Debug\net6.0\oops-task.exe
+D:\.NET-PROJECTS\oops-task\bin\Debug\net6.0\oops-task.deps.json
+D:\.NET-PROJECTS\oops-task\bin\Debug\net6.0\oops-task.runtimeconfig.json
+D:\.NET-PROJECTS\oops-task\bin\Debug\net6.0\oops-task.dll
+D:\.NET-PROJECTS\oops-task\bin\Debug\net6.0\oops-task.pdb
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\oops-task.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\oops-task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\oops-task.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\oops-task.AssemblyInfo.vb
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\oops-task.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\oops-task.dll
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\refint\oops-task.dll
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\oops-task.pdb
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\oops-task.genruntimeconfig.cache
+D:\.NET-PROJECTS\oops-task\obj\Debug\net6.0\ref\oops-task.dll
