@@ -1,0 +1,2 @@
+Name: Alice Smith
+Bill Amount: 3500

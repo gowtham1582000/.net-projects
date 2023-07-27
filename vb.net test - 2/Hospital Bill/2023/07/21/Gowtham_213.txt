@@ -1,0 +1,13 @@
+--------- Patient Details ----------
+
+Patient ID: 213
+
+Patient Name: Gowtham
+
+
+Patient Ph No: 2312312312
+
+Patient Address: No 5/4 thiru nagar
+
+Patient illness Name: Fever
+

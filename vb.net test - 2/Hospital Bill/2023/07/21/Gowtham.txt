@@ -1,0 +1,11 @@
+--------- Patient Details ----------
+
+Patient Name: Gowtham
+
+
+Patient Ph No: 8056129724
+
+Patient Address: jjsdf
+
+Patient illness Name: fever
+

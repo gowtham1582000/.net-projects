@@ -1,0 +1,13 @@
+--------- Patient Details ----------
+
+Patient ID: 123
+
+Patient Name: Parthipan
+
+
+Patient Ph No: 21878213
+
+Patient Address: No 5/4 thiru nagar
+
+Patient illness Name: Fracture
+

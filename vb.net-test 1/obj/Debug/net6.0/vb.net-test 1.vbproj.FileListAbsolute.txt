@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\vb.net-test 1\bin\Debug\net6.0\vb.net-test 1.exe
+D:\.NET-PROJECTS\vb.net-test 1\bin\Debug\net6.0\vb.net-test 1.deps.json
+D:\.NET-PROJECTS\vb.net-test 1\bin\Debug\net6.0\vb.net-test 1.runtimeconfig.json
+D:\.NET-PROJECTS\vb.net-test 1\bin\Debug\net6.0\vb.net-test 1.dll
+D:\.NET-PROJECTS\vb.net-test 1\bin\Debug\net6.0\vb.net-test 1.pdb
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\vb.net-test 1.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\vb.net-test 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\vb.net-test 1.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\vb.net-test 1.AssemblyInfo.vb
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\vb.net-test 1.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\vb.net-test 1.dll
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\refint\vb.net-test 1.dll
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\vb.net-test 1.pdb
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\vb.net-test 1.genruntimeconfig.cache
+D:\.NET-PROJECTS\vb.net-test 1\obj\Debug\net6.0\ref\vb.net-test 1.dll

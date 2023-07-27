@@ -1,0 +1,15 @@
+D:\.NET-PROJECTS\String-task\bin\Debug\net6.0\String-task.exe
+D:\.NET-PROJECTS\String-task\bin\Debug\net6.0\String-task.deps.json
+D:\.NET-PROJECTS\String-task\bin\Debug\net6.0\String-task.runtimeconfig.json
+D:\.NET-PROJECTS\String-task\bin\Debug\net6.0\String-task.dll
+D:\.NET-PROJECTS\String-task\bin\Debug\net6.0\String-task.pdb
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\String-task.vbproj.AssemblyReference.cache
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\String-task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\String-task.AssemblyInfoInputs.cache
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\String-task.AssemblyInfo.vb
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\String-task.vbproj.CoreCompileInputs.cache
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\String-task.dll
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\refint\String-task.dll
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\String-task.pdb
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\String-task.genruntimeconfig.cache
+D:\.NET-PROJECTS\String-task\obj\Debug\net6.0\ref\String-task.dll

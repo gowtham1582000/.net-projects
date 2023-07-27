@@ -1,0 +1,13 @@
+--------- Patient Details ----------
+
+Patient ID: 342
+
+Patient Name: Gowtham
+
+
+Patient Ph No: 89787231871
+
+Patient Address: sdfsdaf
+
+Patient illness Name: fever
+
